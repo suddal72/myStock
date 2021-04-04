@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27bffe60-d2ae-4e88-a18a-03297a104f98" name="Default Changelist" comment="add slacker.py">
-      <change afterPath="$PROJECT_DIR$/DBupdater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+    <list default="true" id="27bffe60-d2ae-4e88-a18a-03297a104f98" name="Default Changelist" comment="batch program">
+      <change afterPath="$PROJECT_DIR$/CheckMyStock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock_list.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617452338332</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="db update">
+      <created>1617528926513</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617528926513</updated>
+    </task>
+    <task id="LOCAL-00004" summary="batch program">
+      <created>1617529747987</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617529747987</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,7 +181,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pycharm --&gt; suddal72" />
     <MESSAGE value="add slacker.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add slacker.py" />
+    <MESSAGE value="db update" />
+    <MESSAGE value="batch program" />
+    <option name="LAST_COMMIT_MESSAGE" value="batch program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
