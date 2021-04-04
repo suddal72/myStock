@@ -1,0 +1,1 @@
+python C:\developer\pythonProject\stock\Investar\DBUpdater.py
